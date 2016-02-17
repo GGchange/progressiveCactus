@@ -58,3 +58,6 @@
 [submodule "submodules/biopython"]
 	path = submodules/biopython
 	url = git://github.com/biopython/biopython.git
+[submodule "submodules/jobTree"]
+	path = submodules/jobTree
+	url = git@github.com:harvardinformatics/jobTree.git
